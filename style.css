@@ -21,11 +21,8 @@ section{
 .orange-color{
     color: orange;
 }
-
-
 .flexible-container{
     display: flex;
-    
 }
 .half-width{
     width: 50%;
@@ -63,9 +60,7 @@ section{
 }
 .contact-part{
     text-align: center;
-    
     background-color: papayawhip;
-    
 }
 button{
     padding: 10px 40px;
