@@ -61,3 +61,22 @@ section{
 .goal{
     background-color:palegoldenrod ;
 }
+.contact-part{
+    text-align: center;
+    
+    background-color: papayawhip;
+    
+}
+.contact-part form{
+   padding: 40px;
+    
+} 
+
+button{
+    padding: 10px 40px;
+    background-color: teal;
+    color: white;
+    margin-top: 20px;
+    font-weight: 700;
+    
+}
